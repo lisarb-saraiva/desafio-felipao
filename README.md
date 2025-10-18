@@ -7,4 +7,4 @@ então resolvi fazer os desafios como essas duas linguagens
 - <strong>`JavaScript`</strong>: <strong>Visual Studio Code</strong>
 
 ## 
-<h4 align="center">Feito por <a tex href="https://github.com/Fabriciobr5975"> Fabrício de Araújo Santana</a></h4>
+<h4 align="center">Feito por <a tex href="https://github.com/lisarb-saraiva"> Antonio Lisarb Cordeiro Saraiva</a></h4>
